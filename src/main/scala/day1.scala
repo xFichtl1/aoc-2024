@@ -1,3 +1,5 @@
+package day1
+
 import scala.io.Source
 
 def getIntListsFromInput: (List[Int], List[Int]) =
